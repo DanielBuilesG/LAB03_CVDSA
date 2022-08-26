@@ -1,4 +1,4 @@
-package edu.eci.cvds;
+package edu.eci.cvds.tdd.registry;
 
 import static org.junit.Assert.assertTrue;
 
